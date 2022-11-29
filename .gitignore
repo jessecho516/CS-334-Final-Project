@@ -4,3 +4,10 @@ yelp_academic_dataset_checkin.json
 yelp_academic_dataset_review.json
 yelp_academic_dataset_tip.json
 yelp_academic_dataset_user.json
+
+# sample dataset excluded use google drive plz
+sample_checkin.csv
+sample_restaurant.csv
+sample_review.csv
+sample_tip.csv
+sample_user.csv

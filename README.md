@@ -3,8 +3,8 @@
 use anconda virtual environment to run
 
 # Preprocessing
-
-one-hot-encoding
+business.json: feature expansion of attributes and categories
+one-hot-encoding: attributes and categories
 
 creating new features: _
 

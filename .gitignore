@@ -11,3 +11,10 @@ sample_restaurant.csv
 sample_review.csv
 sample_tip.csv
 sample_user.csv
+
+# main dataset of csv
+checkin.csv
+restaurant.csv
+review.csv
+tip.csv
+user.csv

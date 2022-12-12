@@ -18,6 +18,3 @@ restaurant.csv
 review.csv
 tip.csv
 user.csv
-
-# exclude final_restaurant.csv
-final_restaurant.csv
